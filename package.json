@@ -1,0 +1,24 @@
+{
+  "name": "multiplayer-game",
+  "version": "1.0.0",
+  "description": "A simple multiplayer game inspirated by Filipe Deschamps videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheusFacin/multiplayer-game.git"
+  },
+  "keywords": [
+    "multiplayer",
+    "node",
+    "socket.io"
+  ],
+  "author": "Matheus Facin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheusFacin/multiplayer-game/issues"
+  },
+  "homepage": "https://github.com/TheusFacin/multiplayer-game#readme"
+}
